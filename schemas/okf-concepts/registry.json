@@ -1,0 +1,101 @@
+{
+  "version": "0.1.0",
+  "plugin": "gtm-positioning",
+  "types": [
+    {
+      "type": "Offer",
+      "folder": null,
+      "description": "Sellable engagement or product"
+    },
+    {
+      "type": "PositioningStatement",
+      "folder": null,
+      "description": "How we win the category"
+    },
+    {
+      "type": "MessagingPillar",
+      "folder": null,
+      "description": "Repeatable message"
+    },
+    {
+      "type": "ValueProposition",
+      "folder": null,
+      "description": "Why it matters to a buyer"
+    },
+    {
+      "type": "IdealCustomerProfile",
+      "folder": null,
+      "description": "Who we sell to"
+    },
+    {
+      "type": "CompetitiveAlternative",
+      "folder": null,
+      "description": "What they would do instead"
+    },
+    {
+      "type": "Objection",
+      "folder": null,
+      "description": "GTM-level buyer concern"
+    },
+    {
+      "type": "CaseStudy",
+      "folder": null,
+      "description": "Proof story"
+    },
+    {
+      "type": "ProofPoint",
+      "folder": null,
+      "description": "Quantified or qualitative proof"
+    },
+    {
+      "type": "LandingPage",
+      "folder": null,
+      "description": "Page that carries an offer"
+    },
+    {
+      "type": "SiteStatus",
+      "folder": null,
+      "description": "Current site / offer page state"
+    },
+    {
+      "type": "TrafficSource",
+      "folder": null,
+      "description": "How people arrive"
+    },
+    {
+      "type": "ConversionEvent",
+      "folder": null,
+      "description": "Desired action"
+    },
+    {
+      "type": "Campaign",
+      "folder": null,
+      "description": "GTM motion"
+    },
+    {
+      "type": "Experiment",
+      "folder": null,
+      "description": "Message or page test"
+    },
+    {
+      "type": "PricingNote",
+      "folder": null,
+      "description": "Packaging or price signal"
+    },
+    {
+      "type": "Packaging",
+      "folder": null,
+      "description": "How the offer is bundled"
+    },
+    {
+      "type": "Testimonial",
+      "folder": null,
+      "description": "Customer quote"
+    },
+    {
+      "type": "BattleCard",
+      "folder": null,
+      "description": "How to talk vs an alternative"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "gtm-positioning",
+  "version": "0.1.0",
+  "private": true,
+  "description": "GTM Positioning \u2014 Claude Code / Grok Build / Codex plugin",
+  "scripts": {
+    "test": "python3 tests/test_gtm.py",
+    "validate": "python3 scripts/gtm_common.py validate --bundle sample-knowledge",
+    "init": "python3 scripts/gtm_common.py init-bundle --bundle sample-knowledge --title \"GTM Positioning\" --catalogs \"offers,positioning,campaigns,icps,proof-points,battle-cards,experiments\""
+  },
+  "license": "MIT"
+}

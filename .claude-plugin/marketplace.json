@@ -1,0 +1,37 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gtm-plugin-marketplace",
+  "description": "GTM Positioning plugins for Claude Code (Grok Build compatible via Claude plugin zero-config)",
+  "owner": {
+    "name": "Rick Hightower",
+    "url": "https://github.com/RichardHightower"
+  },
+  "plugins": [
+    {
+      "name": "gtm-positioning",
+      "source": "./",
+      "description": "Go-to-market ContentPack: offers, positioning, messaging pillars, ICPs, campaigns, battle cards, and proof points.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Rick Hightower"
+      },
+      "homepage": "https://github.com/SpillwaveSolutions/gtm-positioning",
+      "repository": "https://github.com/SpillwaveSolutions/gtm-positioning",
+      "license": "MIT",
+      "keywords": [
+        "gtm",
+        "positioning",
+        "offer",
+        "messaging",
+        "icp",
+        "campaign",
+        "claude-code",
+        "grok-build",
+        "codex",
+        "okf",
+        "content-pack"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
