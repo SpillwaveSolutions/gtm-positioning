@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gtm-positioning",
+  "version": "0.2.0",
+  "description": "Go-to-market ContentPack: offers, positioning, messaging, ICPs, campaigns, battle cards.",
+  "author": {
+    "name": "Rick Hightower",
+    "url": "https://github.com/RichardHightower"
+  },
+  "homepage": "https://github.com/SpillwaveSolutions/gtm-positioning",
+  "repository": "https://github.com/SpillwaveSolutions/gtm-positioning",
+  "license": "MIT",
+  "keywords": [
+    "gtm",
+    "positioning",
+    "second-brain",
+    "agent-plugins"
+  ]
+}
