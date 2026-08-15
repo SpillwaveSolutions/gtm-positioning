@@ -1,100 +1,100 @@
 {
-  "version": "0.1.0",
+  "version": "0.3.0",
   "plugin": "gtm-positioning",
   "types": [
     {
       "type": "Offer",
-      "folder": null,
+      "folder": "offers",
       "description": "Sellable engagement or product"
     },
     {
       "type": "PositioningStatement",
-      "folder": null,
+      "folder": "positioning-statements",
       "description": "How we win the category"
     },
     {
       "type": "MessagingPillar",
-      "folder": null,
+      "folder": "campaigns",
       "description": "Repeatable message"
     },
     {
       "type": "ValueProposition",
-      "folder": null,
+      "folder": "value-propositions",
       "description": "Why it matters to a buyer"
     },
     {
       "type": "IdealCustomerProfile",
-      "folder": null,
+      "folder": "ideal-customer-profiles",
       "description": "Who we sell to"
     },
     {
       "type": "CompetitiveAlternative",
-      "folder": null,
+      "folder": "competitive-alternatives",
       "description": "What they would do instead"
     },
     {
       "type": "Objection",
-      "folder": null,
+      "folder": "objections",
       "description": "GTM-level buyer concern"
     },
     {
       "type": "CaseStudy",
-      "folder": null,
+      "folder": "case-studies",
       "description": "Proof story"
     },
     {
       "type": "ProofPoint",
-      "folder": null,
+      "folder": "proof-points",
       "description": "Quantified or qualitative proof"
     },
     {
       "type": "LandingPage",
-      "folder": null,
+      "folder": "landing-pages",
       "description": "Page that carries an offer"
     },
     {
       "type": "SiteStatus",
-      "folder": null,
+      "folder": "site-status",
       "description": "Current site / offer page state"
     },
     {
       "type": "TrafficSource",
-      "folder": null,
+      "folder": "traffic-sources",
       "description": "How people arrive"
     },
     {
       "type": "ConversionEvent",
-      "folder": null,
+      "folder": "conversion-events",
       "description": "Desired action"
     },
     {
       "type": "Campaign",
-      "folder": null,
+      "folder": "campaigns",
       "description": "GTM motion"
     },
     {
       "type": "Experiment",
-      "folder": null,
+      "folder": "experiments",
       "description": "Message or page test"
     },
     {
       "type": "PricingNote",
-      "folder": null,
+      "folder": "pricing-notes",
       "description": "Packaging or price signal"
     },
     {
       "type": "Packaging",
-      "folder": null,
+      "folder": "packagings",
       "description": "How the offer is bundled"
     },
     {
       "type": "Testimonial",
-      "folder": null,
+      "folder": "testimonials",
       "description": "Customer quote"
     },
     {
       "type": "BattleCard",
-      "folder": null,
+      "folder": "battle-cards",
       "description": "How to talk vs an alternative"
     }
   ]

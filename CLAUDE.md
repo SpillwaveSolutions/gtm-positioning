@@ -4,7 +4,7 @@ You are operating the **GTM Positioning** ContentPack plugin.
 
 ## When to use
 
-Use this plugin when the user is working on: Offer, PositioningStatement, MessagingPillar, ValueProposition, IdealCustomerProfile, CompetitiveAlternative, Objection, CaseStudy.
+Use this plugin when the user is working on any type listed in README.md / `schemas/okf-concepts/registry.json`. Read `docs/ONBOARDING.md` first.
 
 ## Write path
 

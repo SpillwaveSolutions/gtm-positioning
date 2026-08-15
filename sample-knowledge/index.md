@@ -8,3 +8,7 @@ timestamp: 2026-08-14T00:00:00Z
 # GTM Positioning sample
 
 Fictional concepts only. Safe to pack and validate.
+
+## Linked Northstar story
+
+Pack from `Northstar Offer` (2 hops) to walk the sample graph.

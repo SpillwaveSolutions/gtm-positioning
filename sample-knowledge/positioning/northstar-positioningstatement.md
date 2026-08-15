@@ -4,10 +4,9 @@ title: Northstar PositioningStatement
 status: active
 timestamp: 2026-08-14T00:00:00Z
 author: Grok Bot: GTM Positioning
-tags:
-  - sample
-  - northstar
-links: []
+links:
+  - target: /offers/northstar-offer.md
+    rel: related_to
 ---
 
 # Northstar PositioningStatement

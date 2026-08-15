@@ -4,10 +4,9 @@ title: Northstar MessagingPillar
 status: active
 timestamp: 2026-08-14T00:00:00Z
 author: Grok Bot: GTM Positioning
-tags:
-  - sample
-  - northstar
-links: []
+links:
+  - target: /positioning/northstar-positioningstatement.md
+    rel: related_to
 ---
 
 # Northstar MessagingPillar

@@ -11,7 +11,7 @@
       "name": "gtm-positioning",
       "source": "./",
       "description": "Go-to-market ContentPack: offers, positioning, messaging pillars, ICPs, campaigns, battle cards, and proof points.",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "author": {
         "name": "Rick Hightower"
       },

@@ -1,13 +1,13 @@
 {
   "name": "gtm-plugin-marketplace",
   "description": "Optional native Grok marketplace metadata. Grok Build already loads Claude plugins with zero config.",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "plugins": [
     {
       "name": "gtm-positioning",
       "source": ".",
       "description": "Go-to-market ContentPack: offers, positioning, messaging pillars, ICPs, campaigns, battle cards, and proof points.",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "compatibility": {
         "claude_plugin": true,
         "zero_config": true
