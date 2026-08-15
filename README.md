@@ -84,7 +84,7 @@ python3 scripts/gtm_common.py write \
   --type Offer \
   --folder offers \
   --title "Example" \
-  --author "Grok Bot: GTM Positioning"
+  --author "${SECOND_BRAIN_IDENTITY:?claim an identity first: brain.py whoami --claim}"
 ```
 
 Never invent `rel` values. Never write types owned by another plugin.
