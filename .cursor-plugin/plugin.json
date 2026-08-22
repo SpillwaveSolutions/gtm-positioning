@@ -1,6 +1,6 @@
 {
   "name": "gtm-positioning",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Go-to-market ContentPack: offers, positioning, messaging, ICPs, campaigns, battle cards.",
   "author": {
     "name": "Rick Hightower"
@@ -13,7 +13,9 @@
     "positioning",
     "second-brain",
     "agent-plugins",
-    "cursor"
+    "cursor",
+    "worklog",
+    "wiki-ticket-sdd"
   ],
   "skills": "skills/",
   "rules": ".cursor/rules/",
